@@ -1,0 +1,7 @@
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\bin\Debug\Task3Clients.exe.config
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\bin\Debug\Task3Clients.exe
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\bin\Debug\Task3Clients.pdb
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\obj\Debug\Task3Clients.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\obj\Debug\Task3Clients.exe
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\obj\Debug\Task3Clients.pdb
+C:\Users\ivano\source\repos\Task3Serv\Task3Clients\obj\Debug\Task3Clients.csprojAssemblyReference.cache
