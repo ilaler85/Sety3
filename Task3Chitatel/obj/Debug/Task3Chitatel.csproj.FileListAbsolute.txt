@@ -1,0 +1,7 @@
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\bin\Debug\Task3Chitatel.exe.config
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\bin\Debug\Task3Chitatel.exe
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\bin\Debug\Task3Chitatel.pdb
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\obj\Debug\Task3Chitatel.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\obj\Debug\Task3Chitatel.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\obj\Debug\Task3Chitatel.exe
+C:\Users\ivano\source\repos\Task3Serv\Task3Chitatel\obj\Debug\Task3Chitatel.pdb
